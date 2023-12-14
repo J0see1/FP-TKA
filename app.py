@@ -5,7 +5,7 @@ from bson import ObjectId
 app = Flask(__name__)
 
 # Configuration for MongoDB
-app.config['MONGO_URI'] = 'mongodb://localhost:27017/orders_db'
+app.config['MONGO_URI'] = 'mongodb+srv://doadmin:W68a194KoLN7eY05@db-mongodb-sgp1-fp-TKA-b5c7643d.mongo.ondigitalocean.com/admin?tls=true&authSource=admin&replicaSet=db-mongodb-sgp1-fp-TKA'
 mongo = PyMongo(app)
 
 # Routes
