@@ -70,6 +70,16 @@ untuk setup load balancer:
 ![image](https://github.com/J0see1/FP-TKA/assets/134209563/182222fc-3dcb-4a8d-8a7e-f024b3e15e4d)
 
 ## Hasil Pengujian Loadtesting Locust
+##### Get
+![image](https://github.com/J0see1/FP-TKA/assets/135596748/7b8de4e8-b5a1-4801-917f-77f50c0aa679)
+
+![image](https://github.com/J0see1/FP-TKA/assets/135596748/3bd9e28f-61aa-449a-a1d7-04f32d5962de)
+
+##### Post
+![image](https://github.com/J0see1/FP-TKA/assets/135596748/f9b85826-6cc7-48e8-904b-b86cdee0b93f)
+
+![image](https://github.com/J0see1/FP-TKA/assets/135596748/1e72106a-91d6-4176-a00b-d09b986fb690)
+
 
 ## Kesimpulan
 
