@@ -70,15 +70,30 @@ untuk setup load balancer:
 ![image](https://github.com/J0see1/FP-TKA/assets/134209563/182222fc-3dcb-4a8d-8a7e-f024b3e15e4d)
 
 ## Hasil Pengujian Loadtesting Locust
-##### Get
-![image](https://github.com/J0see1/FP-TKA/assets/135596748/7b8de4e8-b5a1-4801-917f-77f50c0aa679)
+#### Device Etha
+##### Spawn Rate 25 GET
+![image](https://github.com/J0see1/FP-TKA/assets/135596748/8fce3336-3ee7-4c37-a15f-896640ea3e6a)
+![image](https://github.com/J0see1/FP-TKA/assets/135596748/cee53bf6-6030-416a-bd53-98f8b095b829)
 
-![image](https://github.com/J0see1/FP-TKA/assets/135596748/3bd9e28f-61aa-449a-a1d7-04f32d5962de)
+##### Spawn Rate 25 POST
+![image](https://github.com/J0see1/FP-TKA/assets/135596748/cd096903-9af0-4d86-aab5-3e059af3c1c4)
+![image](https://github.com/J0see1/FP-TKA/assets/135596748/306521c0-fc99-4706-8d8b-23ae764cab93)
 
-##### Post
-![image](https://github.com/J0see1/FP-TKA/assets/135596748/f9b85826-6cc7-48e8-904b-b86cdee0b93f)
+##### Spawn Rate 50 GET 
+![image](https://github.com/J0see1/FP-TKA/assets/135596748/c5c9a7df-a2b6-49b4-8c88-232c36419467)
+![image](https://github.com/J0see1/FP-TKA/assets/135596748/bbc28033-1558-4c22-a6dc-d51766f6d991)
 
-![image](https://github.com/J0see1/FP-TKA/assets/135596748/1e72106a-91d6-4176-a00b-d09b986fb690)
+##### Spawn Rate 50 POST
+![image](https://github.com/J0see1/FP-TKA/assets/135596748/d41b9e5c-1492-4d14-8774-1ee1a427ffe2)
+![image](https://github.com/J0see1/FP-TKA/assets/135596748/6af91767-c78f-49d8-952d-5d6ccb15ba18)
+
+##### Spawn Rate 100 GET
+![image](https://github.com/J0see1/FP-TKA/assets/135596748/7c858ecb-a9c6-429a-a12d-48f70c92991f)
+![image](https://github.com/J0see1/FP-TKA/assets/135596748/85303d93-977a-4240-b206-81be905c49b8)
+
+##### Spawn Rate 100 POST
+![image](https://github.com/J0see1/FP-TKA/assets/135596748/d1071f2f-8d4a-4f56-aa10-b9788cfb2d5a)
+![image](https://github.com/J0see1/FP-TKA/assets/135596748/f6c5d44f-ed05-4a91-b625-ab432820758d)
 
 
 ## Kesimpulan
