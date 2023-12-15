@@ -18,7 +18,8 @@ Pada suatu saat teman anda ingin mengajak anda memulai bisnis di bidang digital 
 
 ## Rancangan Arsitektur dan Tabel Harga Spesifikasi VM
 - Berikut rancangan arsitektur _cloud_ dan tabel harga spesifikasi VM final project kami
-![WhatsApp Image 2023-12-15 at 04 58 49_ec338030](https://github.com/J0see1/FP-TKA/assets/124648489/580a3f3b-e728-41e7-b9f5-621b235d2303)
+  ![WhatsApp Image 2023-12-15 at 16 02 47_891acdab](https://github.com/J0see1/FP-TKA/assets/124648489/9bc12ce9-1582-4911-96d3-acc6788953f7)
+
 
 
 ## Langkah Implementasi dan Konfigurasi VM
