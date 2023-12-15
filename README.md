@@ -83,29 +83,19 @@ untuk setup load balancer:
 ![image](https://github.com/J0see1/FP-TKA/assets/134209563/182222fc-3dcb-4a8d-8a7e-f024b3e15e4d)
 
 ## Hasil Pengujian Loadtesting Locust
-##### Spawn Rate 25 GET
-![image](https://github.com/J0see1/FP-TKA/assets/135596748/8fce3336-3ee7-4c37-a15f-896640ea3e6a)
-![image](https://github.com/J0see1/FP-TKA/assets/135596748/cee53bf6-6030-416a-bd53-98f8b095b829)
+##### Spawn Rate 25
+![WhatsApp Image 2023-12-15 at 15 44 25_7d730b64](https://github.com/J0see1/FP-TKA/assets/124648489/1fe22add-dd40-4618-8f2d-a156e45cf5a9)
+![WhatsApp Image 2023-12-15 at 15 44 38_d896eff3](https://github.com/J0see1/FP-TKA/assets/124648489/c8791d94-ed51-43fc-9c5d-668b48e7eaf7)
 
-##### Spawn Rate 25 POST
-![image](https://github.com/J0see1/FP-TKA/assets/135596748/cd096903-9af0-4d86-aab5-3e059af3c1c4)
-![image](https://github.com/J0see1/FP-TKA/assets/135596748/306521c0-fc99-4706-8d8b-23ae764cab93)
 
-##### Spawn Rate 50 GET 
-![image](https://github.com/J0see1/FP-TKA/assets/135596748/c5c9a7df-a2b6-49b4-8c88-232c36419467)
-![image](https://github.com/J0see1/FP-TKA/assets/135596748/bbc28033-1558-4c22-a6dc-d51766f6d991)
+##### Spawn Rate 50 
+![WhatsApp Image 2023-12-15 at 15 45 19_2802e040](https://github.com/J0see1/FP-TKA/assets/124648489/51d28a3e-c3a9-4d80-ad53-2dd16208dadd)
+![WhatsApp Image 2023-12-15 at 15 46 10_e0223052](https://github.com/J0see1/FP-TKA/assets/124648489/b11ccdd0-c2bc-4b78-ad11-468a2e835fff)
 
-##### Spawn Rate 50 POST
-![image](https://github.com/J0see1/FP-TKA/assets/135596748/d41b9e5c-1492-4d14-8774-1ee1a427ffe2)
-![image](https://github.com/J0see1/FP-TKA/assets/135596748/6af91767-c78f-49d8-952d-5d6ccb15ba18)
+##### Spawn Rate 100
+![WhatsApp Image 2023-12-15 at 15 46 44_00f9caae](https://github.com/J0see1/FP-TKA/assets/124648489/252c3d0e-4de7-4f35-8458-9bb6bcf74e2e)
+![WhatsApp Image 2023-12-15 at 15 47 39_f6d3c196](https://github.com/J0see1/FP-TKA/assets/124648489/b8d2dee6-7719-4e75-8b21-92869559f4f0)
 
-##### Spawn Rate 100 GET
-![image](https://github.com/J0see1/FP-TKA/assets/135596748/7c858ecb-a9c6-429a-a12d-48f70c92991f)
-![image](https://github.com/J0see1/FP-TKA/assets/135596748/85303d93-977a-4240-b206-81be905c49b8)
-
-##### Spawn Rate 100 POST
-![image](https://github.com/J0see1/FP-TKA/assets/135596748/d1071f2f-8d4a-4f56-aa10-b9788cfb2d5a)
-![image](https://github.com/J0see1/FP-TKA/assets/135596748/f6c5d44f-ed05-4a91-b625-ab432820758d)
 
 
 ## Kesimpulan
