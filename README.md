@@ -110,6 +110,8 @@ untuk setup load balancer:
 
 ## Kesimpulan
 
+Setelah beberapa kali percobaan, disarankan untuk meningkatkan jumlah node pada load balancer seiring dengan peningkatan jumlah worker. Hal ini dikarenakan pada percobaan menggunakan satu node load balancer dan tiga worker, terjadi penurunan performa pada ketiga worker tersebut.
+
 ## Problem
 
 Tidak ada
