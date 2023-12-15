@@ -69,19 +69,19 @@ untuk setup load balancer:
 ![image](https://github.com/J0see1/FP-TKA/assets/134209563/38ec8262-e131-4933-88ef-af351cdcc864)
 
 2. Get orders
-![image](https://github.com/J0see1/FP-TKA/assets/134209563/6fa11cba-7dd2-4479-854a-ae2a53027785)
+![getall](https://github.com/J0see1/FP-TKA/assets/134209563/4ad87ea7-8f3f-4995-a1b5-aaf305882407)
 
 3. Get specific order berdasarkan ID
-![image](https://github.com/J0see1/FP-TKA/assets/134209563/57da4b7e-3268-4202-acd0-b42ca775b851)
+![getbyid](https://github.com/J0see1/FP-TKA/assets/134209563/58f57b9e-a3ff-4134-8c83-2bc90f00576b)
 
 4. Buat order baru
-![image](https://github.com/J0see1/FP-TKA/assets/134209563/2791de0b-220e-40c1-a99b-644b9c615e89)
+![post](https://github.com/J0see1/FP-TKA/assets/134209563/78a5c850-9e70-4e58-b31a-2884ec8b3f9e)
 
 5. Update order berdasarkan ID nya
-![image](https://github.com/J0see1/FP-TKA/assets/134209563/a3110ef1-7da6-4388-8d10-f5628264e021)
+![update](https://github.com/J0see1/FP-TKA/assets/134209563/068e0008-dd0a-465e-a20d-de069a68a0ec)
 
 6. Hapus order berdasarkan ID nya
-![image](https://github.com/J0see1/FP-TKA/assets/134209563/182222fc-3dcb-4a8d-8a7e-f024b3e15e4d)
+![delete](https://github.com/J0see1/FP-TKA/assets/134209563/dcef5cf9-862a-4340-92dc-54b490d34180)
 
 ## Hasil Pengujian Loadtesting Locust
 ### Device Etha
