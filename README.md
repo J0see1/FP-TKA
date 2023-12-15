@@ -17,16 +17,23 @@ Anda adalah seorang lulusan Teknologi Informasi, sebagai ahli IT, salah satu kem
 Pada suatu saat teman anda ingin mengajak anda memulai bisnis di bidang digital marketing, anda diberikan sebuah aplikasi berbasis API File: app.py dengan spesifikasi sebagai berikut
 
 ## Rancangan Arsitektur dan Tabel Harga Spesifikasi VM
+- Berikut rancangan arsitektur _cloud_ dan tabel harga spesifikasi VM final project kami
+![WhatsApp Image 2023-12-15 at 04 58 49_ec338030](https://github.com/J0see1/FP-TKA/assets/124648489/580a3f3b-e728-41e7-b9f5-621b235d2303)
+
 
 ## Langkah Implementasi dan Konfigurasi VM
 
-Untuk setup database:
+- Untuk setup database :
+   
+1. _create_ database dan _copy connection string_
 
 ![image](https://github.com/J0see1/FP-TKA/assets/134209563/5372d41b-48b9-4ea9-b856-24f6799564b5)
 
+2. _Create new connection_ menggunakan string database yang sebelumnya sudah di-copy
+
 ![image](https://github.com/J0see1/FP-TKA/assets/134209563/921689e6-b804-408c-ae0b-ed3a6491a8cf)
 
-Untuk setup worker:
+- Untuk setup worker
 
 1. buka powershell / cmd, etc dan masukkan command di bawah
    ```
@@ -57,20 +64,25 @@ untuk setup load balancer:
 
 ## Hasil Pengujian Endpoint-Endpoint
 
+1. Import data
 ![image](https://github.com/J0see1/FP-TKA/assets/134209563/38ec8262-e131-4933-88ef-af351cdcc864)
 
+2. Get orders
 ![image](https://github.com/J0see1/FP-TKA/assets/134209563/6fa11cba-7dd2-4479-854a-ae2a53027785)
 
+3. Get specific order berdasarkan ID
 ![image](https://github.com/J0see1/FP-TKA/assets/134209563/57da4b7e-3268-4202-acd0-b42ca775b851)
 
+4. Buat order baru
 ![image](https://github.com/J0see1/FP-TKA/assets/134209563/2791de0b-220e-40c1-a99b-644b9c615e89)
 
+5. Update order berdasarkan ID nya
 ![image](https://github.com/J0see1/FP-TKA/assets/134209563/a3110ef1-7da6-4388-8d10-f5628264e021)
 
+6. Hapus order berdasarkan ID nya
 ![image](https://github.com/J0see1/FP-TKA/assets/134209563/182222fc-3dcb-4a8d-8a7e-f024b3e15e4d)
 
 ## Hasil Pengujian Loadtesting Locust
-#### Device Etha
 ##### Spawn Rate 25 GET
 ![image](https://github.com/J0see1/FP-TKA/assets/135596748/8fce3336-3ee7-4c37-a15f-896640ea3e6a)
 ![image](https://github.com/J0see1/FP-TKA/assets/135596748/cee53bf6-6030-416a-bd53-98f8b095b829)
@@ -99,3 +111,4 @@ untuk setup load balancer:
 ## Kesimpulan
 
 ## Problem
+Tidak ada
