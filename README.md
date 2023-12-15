@@ -86,31 +86,31 @@ untuk setup load balancer:
 ## Hasil Pengujian Loadtesting Locust
 ### Device Etha
 ##### Spawn Rate 25
-![WhatsApp Image 2023-12-15 at 15 44 25_7d730b64](https://github.com/J0see1/FP-TKA/assets/124648489/1fe22add-dd40-4618-8f2d-a156e45cf5a9)
-![WhatsApp Image 2023-12-15 at 15 44 38_d896eff3](https://github.com/J0see1/FP-TKA/assets/124648489/c8791d94-ed51-43fc-9c5d-668b48e7eaf7)
-
+![WhatsApp Image 2023-12-15 at 16 20 18_c5e6773b](https://github.com/J0see1/FP-TKA/assets/124648489/ab65ff90-dc37-457d-8c17-610ee4ec35d2)
+![WhatsApp Image 2023-12-15 at 16 20 31_e4ed6c1f](https://github.com/J0see1/FP-TKA/assets/124648489/cff63b44-9841-4ddd-b928-b50f82bdd204)
 
 ##### Spawn Rate 50 
-![WhatsApp Image 2023-12-15 at 15 45 19_2802e040](https://github.com/J0see1/FP-TKA/assets/124648489/51d28a3e-c3a9-4d80-ad53-2dd16208dadd)
-![WhatsApp Image 2023-12-15 at 15 46 10_e0223052](https://github.com/J0see1/FP-TKA/assets/124648489/b11ccdd0-c2bc-4b78-ad11-468a2e835fff)
+![WhatsApp Image 2023-12-15 at 16 17 02_a1bb8a9e](https://github.com/J0see1/FP-TKA/assets/124648489/6d9b11b1-9418-4314-82ee-9e4351d89bcb)
+![WhatsApp Image 2023-12-15 at 16 17 15_8baa75ea](https://github.com/J0see1/FP-TKA/assets/124648489/d001120d-ba54-4933-ab84-4440a8d4aba4)
+
 
 ##### Spawn Rate 100
-![WhatsApp Image 2023-12-15 at 15 46 44_00f9caae](https://github.com/J0see1/FP-TKA/assets/124648489/252c3d0e-4de7-4f35-8458-9bb6bcf74e2e)
-![WhatsApp Image 2023-12-15 at 15 47 39_f6d3c196](https://github.com/J0see1/FP-TKA/assets/124648489/b8d2dee6-7719-4e75-8b21-92869559f4f0)
+![WhatsApp Image 2023-12-15 at 16 22 51_525472b9](https://github.com/J0see1/FP-TKA/assets/124648489/f4e02170-6b1e-49b3-807b-1b705e2a2bce)
+![WhatsApp Image 2023-12-15 at 16 23 05_ad9ef182](https://github.com/J0see1/FP-TKA/assets/124648489/684dcfa8-0876-418d-8e43-bc26ba794f1c)
+
 
 ### Device Rehana
 ##### Spawn Rate 25
-![WhatsApp Image 2023-12-15 at 15 50 55_97650523](https://github.com/J0see1/FP-TKA/assets/124648489/067f844d-c881-499b-b9ce-c01dba7253d8)
-![WhatsApp Image 2023-12-15 at 15 51 19_82cb62b3](https://github.com/J0see1/FP-TKA/assets/124648489/77f077ef-828b-4732-b1d5-b995209aee87)
+![WhatsApp Image 2023-12-15 at 16 24 33_5bddf6bd](https://github.com/J0see1/FP-TKA/assets/124648489/29cf45c9-a700-43ea-8189-ff7a73d1e181)
+![WhatsApp Image 2023-12-15 at 16 25 16_d917e880](https://github.com/J0see1/FP-TKA/assets/124648489/b6ac69c3-267a-4b77-afb4-235b2f2dfaa6)
 
 ##### Spawn Rate 50 
-![WhatsApp Image 2023-12-15 at 15 52 54_3029108e](https://github.com/J0see1/FP-TKA/assets/124648489/df667b6c-74f1-4693-ab38-8f432884d806)
-![WhatsApp Image 2023-12-15 at 15 53 10_8a3ea6ba](https://github.com/J0see1/FP-TKA/assets/124648489/bb140fd5-d424-439d-8dfa-971733facc38)
+![WhatsApp Image 2023-12-15 at 16 26 58_9197dd2e](https://github.com/J0see1/FP-TKA/assets/124648489/ecaf9e1d-e454-4824-ba6f-58ef15c09f7f)
+![WhatsApp Image 2023-12-15 at 16 27 14_12a457ae](https://github.com/J0see1/FP-TKA/assets/124648489/36d50ffa-eccc-486c-b5aa-583bd5bb3c13)
 
 ##### Spawn Rate 100
-![WhatsApp Image 2023-12-15 at 15 54 49_8b945d67](https://github.com/J0see1/FP-TKA/assets/124648489/4ade26eb-d1b3-4f49-81fc-9dc13f3dc409)
-![WhatsApp Image 2023-12-15 at 15 55 05_6dae4171](https://github.com/J0see1/FP-TKA/assets/124648489/ccb4442f-40d0-4db8-ab44-38ba58af2398)
-
+![WhatsApp Image 2023-12-15 at 16 28 43_ed9bc967](https://github.com/J0see1/FP-TKA/assets/124648489/3b575857-6463-4def-92af-67c0130ab056)
+![WhatsApp Image 2023-12-15 at 16 28 57_818d6c91](https://github.com/J0see1/FP-TKA/assets/124648489/fe944b34-11e4-42de-93f0-d5e5b6752e37)
 
 ## Kesimpulan
 
