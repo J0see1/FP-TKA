@@ -83,6 +83,7 @@ untuk setup load balancer:
 ![image](https://github.com/J0see1/FP-TKA/assets/134209563/182222fc-3dcb-4a8d-8a7e-f024b3e15e4d)
 
 ## Hasil Pengujian Loadtesting Locust
+### Device Etha
 ##### Spawn Rate 25
 ![WhatsApp Image 2023-12-15 at 15 44 25_7d730b64](https://github.com/J0see1/FP-TKA/assets/124648489/1fe22add-dd40-4618-8f2d-a156e45cf5a9)
 ![WhatsApp Image 2023-12-15 at 15 44 38_d896eff3](https://github.com/J0see1/FP-TKA/assets/124648489/c8791d94-ed51-43fc-9c5d-668b48e7eaf7)
@@ -96,6 +97,18 @@ untuk setup load balancer:
 ![WhatsApp Image 2023-12-15 at 15 46 44_00f9caae](https://github.com/J0see1/FP-TKA/assets/124648489/252c3d0e-4de7-4f35-8458-9bb6bcf74e2e)
 ![WhatsApp Image 2023-12-15 at 15 47 39_f6d3c196](https://github.com/J0see1/FP-TKA/assets/124648489/b8d2dee6-7719-4e75-8b21-92869559f4f0)
 
+### Device Rehana
+##### Spawn Rate 25
+![WhatsApp Image 2023-12-15 at 15 50 55_97650523](https://github.com/J0see1/FP-TKA/assets/124648489/067f844d-c881-499b-b9ce-c01dba7253d8)
+![WhatsApp Image 2023-12-15 at 15 51 19_82cb62b3](https://github.com/J0see1/FP-TKA/assets/124648489/77f077ef-828b-4732-b1d5-b995209aee87)
+
+##### Spawn Rate 50 
+![WhatsApp Image 2023-12-15 at 15 52 54_3029108e](https://github.com/J0see1/FP-TKA/assets/124648489/df667b6c-74f1-4693-ab38-8f432884d806)
+![WhatsApp Image 2023-12-15 at 15 53 10_8a3ea6ba](https://github.com/J0see1/FP-TKA/assets/124648489/bb140fd5-d424-439d-8dfa-971733facc38)
+
+##### Spawn Rate 100
+![WhatsApp Image 2023-12-15 at 15 54 49_8b945d67](https://github.com/J0see1/FP-TKA/assets/124648489/4ade26eb-d1b3-4f49-81fc-9dc13f3dc409)
+![WhatsApp Image 2023-12-15 at 15 55 05_6dae4171](https://github.com/J0see1/FP-TKA/assets/124648489/ccb4442f-40d0-4db8-ab44-38ba58af2398)
 
 
 ## Kesimpulan
