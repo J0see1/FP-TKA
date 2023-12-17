@@ -58,10 +58,44 @@ Pada suatu saat teman anda ingin mengajak anda memulai bisnis di bidang digital 
    ```
    command ini untuk menjalankan app.py
 
-untuk setup load balancer:
+- Untuk setup load-balancer:
 
-![image](https://github.com/J0see1/FP-TKA/assets/134209563/f3e66a0e-fc01-45a4-a18a-46a6e72018dd)
+1. buat vm di digital ocean
+2. masuk ke vm menggunakan : 
+   ```
+   ssh root@[ipaddress]
+   ```
+3. install nginx pada vm:
+    ```
+    sudo apt install nginx
+    ```
+4. masuk pada konfigurasi nginx
+    ```
+    cd etc/nginx/site-available
+    ```
+5. buka file default menggunakan 
+    ```
+    sudo nano default
+    ```
+6. ganti isi file dengan isi dari nginx.conf 
+    ```    
+        upstream web_backend{
+        server #ip address worker 1
+        server #ip address worker 2
+        }
 
+        server{
+            listen 80;
+            location / {
+            proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;   
+            proxy_pass http://web_backend;
+            }
+        }
+    ```
+7. lakukan restart nginx
+    ```
+    sudo systemctl restart nginx
+    ```
 
 ## Hasil Pengujian Endpoint-Endpoint
 
